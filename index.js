@@ -14,10 +14,9 @@ function divide(a, b) {
 }
 
 // Adding and subtracting by 1
-var n = 10
 
 function inc(n) {
-  n += 1
+  return (n + 1)
 }
 function dec(n) {
   return (n - 1)
