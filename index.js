@@ -13,8 +13,11 @@ function divide(a, b) {
   return (a / b)
 }
 
-// Math + Assignment functions
+// Adding and subtracting by 1
 
 function inc(n) {
   return (n + 1)
+}
+function dec(n) {
+  return (n - 1)
 }
