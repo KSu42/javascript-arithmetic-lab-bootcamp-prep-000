@@ -25,5 +25,6 @@ function dec(n) {
 // Integer functions
 
 function makeInt(n) {
-  return (parseInt{n})
+  return (parseInt(n))
 }
+
