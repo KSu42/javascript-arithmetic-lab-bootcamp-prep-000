@@ -30,3 +30,6 @@ function makeInt(n) {
 
 // Decimal preservation
 
+function preserveDecimal(n) {
+  
+}
