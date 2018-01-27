@@ -22,7 +22,7 @@ function dec(n) {
   return (n - 1)
 }
 
-// Integer functions
+// Integer function
 
 function makeInt(n) {
   return (parseInt(n, 10))
