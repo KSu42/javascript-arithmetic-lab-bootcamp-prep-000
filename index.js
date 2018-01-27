@@ -14,6 +14,7 @@ function divide(a, b) {
 }
 
 // Adding and subtracting by 1
+var n = 10
 
 function inc(n) {
   n += 1
